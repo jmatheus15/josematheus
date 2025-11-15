@@ -1,6 +1,6 @@
 <!-- BANNER OU FRASE DE IMPACTO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1,+eu+sou+o+Matheus!;Desenvolvedor+Front-end+%7C+Python;Apaixonado+por+Tecnologia+e+Inova%C3%A7%C3%A3o;Bem-vindo+ao+meu+GitHub!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1,+eu+sou+o+Matheus!;Desenvolvedor+Front-end+%7C+Python+%7C+java;Apaixonado+por+Tecnologia+e+Inova%C3%A7%C3%A3o;Bem-vindo+ao+meu+GitHub!+🚀" />
 </p>
 
 ---
